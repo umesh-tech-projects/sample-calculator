@@ -269,7 +269,7 @@ class Calculator:
 def main():
     root = tk.Tk()
     calculator = Calculator(root)
-    root.mainlogitop()
+    root.mainloop()
 
 if __name__ == "__main__":
     main()
