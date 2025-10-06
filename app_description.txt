@@ -1,0 +1,36 @@
+Calculator app and their functions:
+
+Number Buttons (0-9)
+- 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 - Input numbers for calculations
+
+Operation Buttons (Orange)
+- + - Addition
+- − - Subtraction  
+- × - Multiplication
+- ÷ - Division
+
+Function Buttons (Gray)
+- C - Clear (resets calculator to 0)
+- ± - Plus/Minus (changes positive to negative or vice versa)
+- % - Percentage (divides current number by 100)
+
+Special Buttons
+- . - Decimal point (adds decimal places)
+- = - Equals (calculates and shows result)
+
+Button Layout:
+```
+Row 1: C    ±    %    ÷
+Row 2: 7    8    9    ×
+Row 3: 4    5    6    −
+Row 4: 1    2    3    +
+Row 5: 0    .    =    =
+```
+
+Color Coding:
+- Light Gray: Numbers (0-9) and decimal (.)
+- Orange: Mathematical operations (+, −, ×, ÷)
+- Gray: Functions (C, ±, %)
+- Red: Equals (=)
+
+The calculator handles basic arithmetic with error prevention (like division by zero) and supports decimal calculations.

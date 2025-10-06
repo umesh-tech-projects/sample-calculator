@@ -1,0 +1,10 @@
+# Python Calculator App Dependencies
+# This calculator uses only built-in Python libraries, so no external packages are required!
+
+# Built-in libraries used:
+# - tkinter (for GUI)
+# - math (for mathematical operations)
+
+# No additional packages needed for this calculator to run.
+# Just make sure you have Python 3.6+ installed on your system.
+
